@@ -22,6 +22,8 @@ My core strength is **software engineering**: building clean full-stack applicat
 
 On top of that, I build **AI-powered applications**, including **LLM agents with tool calling**, **LangGraph workflows**, **RAG systems**, and **deep learning models** in TensorFlow. I like taking an idea all the way from prototype to a working, usable product.
 
+I've also **completed the Hungarian Startup University Program (HSUP)**, where I worked on **SmartRoad Guardian**, an AI-based road safety startup idea.
+
 I'm looking for a **software engineering or AI internship**.
 
 ---
@@ -74,6 +76,21 @@ A web app that detects car accidents from images using deep learning.
 
 `TensorFlow` `Flask` `Python`
 
+
+---
+
+## Innovation & Entrepreneurship
+
+### SmartRoad Guardian: AI-Powered Micro-Incident Detection
+**Completed the Hungarian Startup University Program (HSUP)**
+
+A startup project for safer Hungarian roads, detecting small incidents like breakdowns and flat tires that often go unreported.
+
+- **Solution:** AI platform using dashcams, smartphone sensors, and IoT units to alert drivers and connect them to verified local help
+- **Technology:** AI-based detection, multi-sensor fusion, and LLM-powered multilingual assistance
+- **Business model:** Service provider subscriptions, commissions, and premium features for fleets and rental companies
+
+`AI` `Computer Vision` `IoT` `LLMs`
 
 ---
 
